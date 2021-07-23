@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <bold>A Full-Stack Developer with a passion for metrics and beating former "best-yets".</bold>
+  <bold>A Full-Stack Developer obsessed with metrics and outperforming previous "best-yets".</bold>
 </p>
 <p align="center">Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better<br> Ask me anything <a href="https://github.com/udit1707/udit1707/issues/new"><b>here</b></a></p>
 <p align="center"> 
